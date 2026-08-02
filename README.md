@@ -1,16 +1,26 @@
-## Hi there 👋
-
-<!--
-**Gayatri-tech24/Gayatri-tech24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#HI, I'm Gayatri Arvind Gundad 
+### Computer Science Engineerig Student
+### Machine Learning Enhusiats
+### Data Analytics | POwer BI 
+### Always LEarning New Technologies 
+--- 
+## About Me
+- B.E. Computer Science Engineering Student
+- -Bengaluru, India
+-Intrested in Machine Learning and AI
+- Learnig Data Analytics, POwer BI,And Machine LEarning
+-Looking for ML and Data Analytics Internship oppertunities
+-Passionat about solvingg real-world problem swith data
+---
+## Tech Stack
+-python
+-java
+-C++
+- SQL
+- Power BI
+- NUmpy
+- Scikit Learn
+- Open CV
+- Git
+- Git HUB
+ Thanks for visiting my profile 
